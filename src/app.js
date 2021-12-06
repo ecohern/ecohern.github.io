@@ -2,7 +2,7 @@ const { algoliasearch, instantsearch } = window;
 
 const searchClient = algoliasearch(
   'XMCZELLQFZ',
-  'ea31a480e258edf47339a4e47e0153ec'
+  '5dda5420750f72579cfdfad2e718cf3e'
 );
 
 const search = instantsearch({
